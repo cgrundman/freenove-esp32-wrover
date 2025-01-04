@@ -23,7 +23,11 @@ My perspective is to create a platform to showcase and develop image processing 
 
 ### 4.2 WIFI AP
 
-### 5.1 WIFI Client
+### 5.2 WIFI Server
+
+Sets up the ESP32 board as a client. This project has you connect to a virtual server created on Processing (application you download).
+
+*Tip: Turn off firewalls to allow communication with the device.*
 
 ## References
 <a id="1">[1]</a> 
