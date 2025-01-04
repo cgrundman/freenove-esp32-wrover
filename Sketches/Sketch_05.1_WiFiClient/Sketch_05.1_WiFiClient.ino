@@ -7,8 +7,8 @@
 #include "secrets.h"
 #include <WiFi.h>
 
-#define     REMOTE_IP          "172.24.96.1"  //input the remote server which is you want to connect
-#define     REMOTE_PORT         8888       //input the remote port which is the remote provide
+#define REMOTE_IP    "172.24.96.1"  //input the remote server which is you want to connect
+#define REMOTE_PORT  8888           //input the remote port which is the remote provide
 WiFiClient client;
 
 void setup() {
