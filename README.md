@@ -15,6 +15,8 @@ My perspective is to create a platform to showcase and develop image processing 
 
 ## Projects
 
+*Tip: Create a header file titled secrets.h and add your SSID (WiFi name) and Password. the .gitignore will prevent it from going to a public git repo.*
+
 ### 1.1 Blink
 
 ### 2.2 BLE USART
@@ -30,5 +32,7 @@ Sets up the ESP32 board as a client. This project has you connect to a virtual s
 *Tip: Turn off firewalls to allow communication with the device.*
 
 ## References
-<a id="1">[1]</a> 
-(https://en.wikipedia.org/wiki/ESP32)https://en.wikipedia.org/wiki/ESP32.
+
+<ol>
+    <li>[ESP32's Wikipedia Page](https://en.wikipedia.org/wiki/ESP32)</li>
+</ol>
